@@ -1,4 +1,5 @@
-module.exports = fletcher16;
+var exports = module.exports = fletcher16;
+exports.fletcher16 = fletcher16;
 
 function fletcher16(buf) {
   var sum1 = 0xff, sum2 = 0xff;
