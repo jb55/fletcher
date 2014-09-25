@@ -2,7 +2,7 @@
   "name": "fletcher",
   "description": "fletcher checksums",
   "keywords": ["fletcher"],
-  "version": "0.0.1",
+  "version": "0.0.3",
   "repository": {
     "type": "git",
     "url": "git://github.com/jb55/fletcher.git"
