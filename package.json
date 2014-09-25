@@ -1,0 +1,18 @@
+{
+  "name": "fletcher",
+  "description": "fletcher checksums",
+  "keywords": ["fletcher"],
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jb55/fletcher.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^3.0.0"
+  }
+}
